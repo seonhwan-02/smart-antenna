@@ -121,8 +121,3 @@ smart-antenna-beamforming/
     └── ls_pattern_comparison*.png, ls_boxplot*.png, ls_trend_n_v2.png
 ```
 
-## 원본 자료
-
-cheby shev beamforming.pdf (7p, 중간대체과제) · chebyshev monopulse.pdf (10p, 과제2) · Chebyshev Beamforming 기반 fault 소자 제거 및 Least Square 보상.pdf (27p, 기말 최종 프로젝트) · exam_2026(1).pdf (문제지) · 스마트_안테나_기말고사_제출.docx (답안)
-
-*Part IV의 Python 코드(`프젝4. NULA/`)는 기말고사 제출 범위(단일 시행, 특정 조향각)를 넘어 반복 횟수를 늘려 통계적으로 확장한 자체 분석이며, 별도 결과 문서(`LS_Trend_Analysis.md`)로 정리했다.*
